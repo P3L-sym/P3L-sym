@@ -30,9 +30,6 @@
   <a href="mailto:p3l00ts@gmail.com" style="margin-right: 12px;">
     <img src="https://img.shields.io/badge/Email-p3l00ts@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/slmey" style="margin-right: 12px;">
-    <img src="https://img.shields.io/badge/GitHub-slmey-E53E3E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/petri-loots-1661b2376/" style="margin-right: 12px;">
     <img src="https://img.shields.io/badge/LinkedIn-Petri%20Loots-CC0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
