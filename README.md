@@ -46,6 +46,7 @@ I am a third-year student at **Belgium Campus ITversity**, with 4 years of codin
 Proficient in **Java, C#, Python, JavaScript, HTML, CSS**.  
 Experienced in managing team projects, which has helped me develop leadership skills.  
 I have a strong work ethic and a constant drive to expand my skillset.
+My Cv can be downloaded from my personal website!!
 
 ---
 
