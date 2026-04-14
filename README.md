@@ -56,7 +56,7 @@ My Cv can be downloaded from my personal website!!
 Throughout my academic career, I have worked on multiple projects and assignments, using various coding languages and creative problem-solving.
 
 ### Work Experience  
-*No prior formal work experience.*
+Currently employed as an Intern UI developer at Pinkmatter Solutions
 
 ---
 
