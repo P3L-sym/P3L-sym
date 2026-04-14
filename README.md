@@ -47,6 +47,7 @@ Proficient in **Java, C#, Python, JavaScript, HTML, CSS**.
 Experienced in managing team projects, which has helped me develop leadership skills.  
 I have a strong work ethic and a constant drive to expand my skillset.
 My Cv can be downloaded from my personal website!!
+The next part of my Journey will be into Space Simulations using C++ ans OpenGL
 
 ---
 
@@ -91,6 +92,7 @@ Currently employed as an Intern UI developer at Pinkmatter Solutions
 - Learning Korean language skills  
 - Former swimming team member and sports enthusiast  
 - Driven and goal-oriented mindset  
+- Space and the science behind it 
 
 ---
 
