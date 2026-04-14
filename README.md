@@ -68,7 +68,7 @@ Currently employed as an Intern UI developer at Pinkmatter Solutions
   Matriculated with an N3 qualification.
 
 - **Bachelor of Computing | Belgium Campus ITversity (2023-2026)**  
-  Currently a fourth-year BCom student.
+  Currently a fourth-year BComp student.
 
 ---
 
