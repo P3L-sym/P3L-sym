@@ -48,7 +48,7 @@ Proficient in **Java, C#, C++, Python, JavaScript, TypeScript, HTML, CSS, SCSS, 
 Experienced in managing team projects, which has helped me develop leadership skills.  
 I have a strong work ethic and a constant drive to expand my skillset.
 My Cv can be downloaded from my personal website!!
-The next part of my Journey will be into Space Simulations using C++ ans OpenGL
+The next part of my Journey will be into Space Simulations using C++ and OpenGL
 
 ---
 
