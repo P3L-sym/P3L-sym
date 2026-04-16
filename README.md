@@ -57,7 +57,7 @@ The next part of my Journey will be into Space Simulations using C++ and OpenGL
 ### College Projects (2023-2025)  
 Throughout my academic career, I have worked on multiple projects and assignments, using various coding languages and creative problem-solving.
 
-### Work Experience  
+### Work Experience  (2026)
 Currently employed as an Intern UI developer at Pinkmatter Solutions
 
 ---
