@@ -91,7 +91,7 @@ Currently employed as an Intern UI developer at Pinkmatter Solutions
 - Personal programming projects to maintain core concepts  
 - Passionate guitarist for 4 years  
 - Learning Korean language skills  
-- Former swimming team member and sports enthusiast  
+- Former swimming team member and motorsports enthusiast  
 - Driven and goal-oriented mindset  
 - Space and the science behind it 
 
