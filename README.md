@@ -99,9 +99,9 @@ Currently employed as an Intern UI developer at Pinkmatter Solutions
 
 ## <span style="color:#ff3333;">GitHub Stats</span>
 
-![Petri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slmey&show_icons=true&theme=radical&title_color=ff4d4d&icon_color=ff6666&text_color=ff9999)
+![Petri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=P3L-sym&show_icons=true&theme=radical&title_color=ff4d4d&icon_color=ff6666&text_color=ff9999)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slmey&layout=compact&theme=radical&title_color=ff4d4d&text_color=ff9999)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P3L-sym&layout=compact&theme=radical&title_color=ff4d4d&text_color=ff9999)
 
 ---
 
