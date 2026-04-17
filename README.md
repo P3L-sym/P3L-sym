@@ -196,6 +196,40 @@ Currently employed as an Intern UI developer at Pinkmatter Solutions
 </svg>
 </div>
 
+## <span style="color:#ff3333;">💻 Tech Stack</span>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="80" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="80" alt="scss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="80" alt="angular logo" />
+</div>
+
+<div align="center">
+<svg width="600" height="20" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="260" y2="10" stroke="#b22222" stroke-width="0.5" opacity="0.5"/>
+  <circle cx="280" cy="10" r="3" fill="#ff3333" opacity="0.8"/>
+  <circle cx="295" cy="10" r="1.5" fill="#ff6666" opacity="0.6"/>
+  <circle cx="305" cy="10" r="1" fill="#ff9999" opacity="0.5"/>
+  <line x1="320" y1="10" x2="600" y2="10" stroke="#b22222" stroke-width="0.5" opacity="0.5"/>
+</svg>
+</div>
+
 ## <span style="color:#ff3333;">☄️ GitHub Stats</span>
 
 <p align="center">
